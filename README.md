@@ -1,0 +1,1 @@
+# Intelligent-Sql-Querying-with-Llms-Using-Gemini-Pro
